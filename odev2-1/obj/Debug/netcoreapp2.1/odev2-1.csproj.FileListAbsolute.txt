@@ -1,0 +1,11 @@
+C:\Users\produ\Desktop\yakup\odev2-1\bin\Debug\netcoreapp2.1\odev2-1.deps.json
+C:\Users\produ\Desktop\yakup\odev2-1\bin\Debug\netcoreapp2.1\odev2-1.runtimeconfig.json
+C:\Users\produ\Desktop\yakup\odev2-1\bin\Debug\netcoreapp2.1\odev2-1.runtimeconfig.dev.json
+C:\Users\produ\Desktop\yakup\odev2-1\bin\Debug\netcoreapp2.1\odev2-1.dll
+C:\Users\produ\Desktop\yakup\odev2-1\bin\Debug\netcoreapp2.1\odev2-1.pdb
+C:\Users\produ\Desktop\yakup\odev2-1\obj\Debug\netcoreapp2.1\odev2-1.csprojAssemblyReference.cache
+C:\Users\produ\Desktop\yakup\odev2-1\obj\Debug\netcoreapp2.1\odev2-1.csproj.CoreCompileInputs.cache
+C:\Users\produ\Desktop\yakup\odev2-1\obj\Debug\netcoreapp2.1\odev2-1.AssemblyInfoInputs.cache
+C:\Users\produ\Desktop\yakup\odev2-1\obj\Debug\netcoreapp2.1\odev2-1.AssemblyInfo.cs
+C:\Users\produ\Desktop\yakup\odev2-1\obj\Debug\netcoreapp2.1\odev2-1.dll
+C:\Users\produ\Desktop\yakup\odev2-1\obj\Debug\netcoreapp2.1\odev2-1.pdb
