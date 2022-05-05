@@ -1,4 +1,12 @@
 # CsharpExercise
+*****ToDoApp*****
+TODO uygulaması Uygulamada özellikleri
+Kart Ekle
+Kart Güncelle
+Kart Sil
+Kart Taşı
+Board Listeleme
+
 *****basePhoneList uygulaması işlevleri*****
 Telefon Numarası Kaydet
 Telefon Numarası Sil
