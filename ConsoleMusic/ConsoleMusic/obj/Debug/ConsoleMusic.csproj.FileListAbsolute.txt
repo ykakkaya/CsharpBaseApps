@@ -1,0 +1,7 @@
+C:\Users\produ\source\repos\ConsoleMusic\ConsoleMusic\bin\Debug\ConsoleMusic.exe.config
+C:\Users\produ\source\repos\ConsoleMusic\ConsoleMusic\bin\Debug\ConsoleMusic.exe
+C:\Users\produ\source\repos\ConsoleMusic\ConsoleMusic\bin\Debug\ConsoleMusic.pdb
+C:\Users\produ\source\repos\ConsoleMusic\ConsoleMusic\obj\Debug\ConsoleMusic.csprojAssemblyReference.cache
+C:\Users\produ\source\repos\ConsoleMusic\ConsoleMusic\obj\Debug\ConsoleMusic.csproj.CoreCompileInputs.cache
+C:\Users\produ\source\repos\ConsoleMusic\ConsoleMusic\obj\Debug\ConsoleMusic.exe
+C:\Users\produ\source\repos\ConsoleMusic\ConsoleMusic\obj\Debug\ConsoleMusic.pdb
