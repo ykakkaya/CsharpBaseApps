@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\bin\Debug\Pansiyon.exe.config
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\bin\Debug\Pansiyon.exe
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\bin\Debug\Pansiyon.pdb
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\obj\Debug\Pansiyon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\obj\Debug\Pansiyon.FrmKayitForm.resources
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\obj\Debug\Pansiyon.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\obj\Debug\Pansiyon.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\obj\Debug\Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\obj\Debug\Pansiyon.exe
+C:\Users\Lenovo\source\repos\Pansiyon\Pansiyon\obj\Debug\Pansiyon.pdb
+C:\Users\Lenovo\source\repos\pansiyon\Pansiyon\obj\Debug\Pansiyon.FormAdmin.resources
