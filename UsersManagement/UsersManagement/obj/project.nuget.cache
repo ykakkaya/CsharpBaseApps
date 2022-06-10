@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2Br3t5jI0CrdtxTCfZ/aigfwh4mmYoz9GR2g/SWy12Z0kT/iCXSB5ILAYr1gQZ5XtY4G1LM2A3qG2LN2ZhyBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\UsersManagement\\UsersManagement\\UsersManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
