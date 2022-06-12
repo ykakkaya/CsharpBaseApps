@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\bin\Debug\DövizKurlari.exe.config
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\bin\Debug\DövizKurlari.exe
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\bin\Debug\DövizKurlari.pdb
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\obj\Debug\DövizKurlari.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\obj\Debug\DövizKurlari.Form1.resources
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\obj\Debug\DövizKurlari.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\obj\Debug\DövizKurlari.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\obj\Debug\DövizKurlari.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\obj\Debug\DövizKurlari.exe
+C:\Users\Lenovo\source\repos\DövizKurlari\DövizKurlari\obj\Debug\DövizKurlari.pdb
